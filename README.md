@@ -1,4 +1,4 @@
-== A Concept for a Pressure-Based Queue ==
+# A Concept for a Pressure-Based Queue
 
 This is just a concept.  I read a long while back about some guys that were
 using "pressure" to naturally throttle their systems, although I have no idea
